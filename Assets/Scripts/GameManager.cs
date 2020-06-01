@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
+        Screen.SetResolution(720, 1280, true);
         touchController = GetComponent<TouchController>();
         questionManager = GetComponent<QuestionManager>();
         BindEvents();

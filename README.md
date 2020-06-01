@@ -12,11 +12,11 @@
 
 2. Resources 폴더에 우클릭하여 Create - Question을 눌러 질문을 생성
 
-   ![image-20200601193257835](C:\Users\basso\AppData\Roaming\Typora\typora-user-images\image-20200601193257835.png)
+   ![image](https://user-images.githubusercontent.com/31693348/83401122-17f44200-a43f-11ea-9e52-182125279b2e.png)
 
 3. 질문을 작성하면 **끝**
 
-   ![image-20200601193339522](C:\Users\basso\AppData\Roaming\Typora\typora-user-images\image-20200601193339522.png)
+   ![image](https://user-images.githubusercontent.com/31693348/83401144-24789a80-a43f-11ea-9b8e-72a7df6db21c.png)
 
 
 
